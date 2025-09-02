@@ -510,7 +510,7 @@ a {
     padding: 1rem 0;
     padding-bottom: 0.5rem;
     z-index: 5;
-    overflow-y: hidden;
+    overflow: hidden;
 }
 
 .bg-holder-comp {
@@ -1643,4 +1643,5 @@ a {
   html, body {
     overflow-x: hidden;
   }
+
 }
